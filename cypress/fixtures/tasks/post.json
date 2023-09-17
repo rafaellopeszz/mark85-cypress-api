@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user":{
+            "name": "Rafael da Silva",
+            "email": "rlopes.310@hotmail.com",
+            "password": "@@b2c3D4@@"
+        },
+        "task": {
+            "name": "pagar fatura do meu cartão",
+            "tags": [
+                "nubank",
+                "ourocard",
+                "santander"
+            ]
+        }
+    },
+    "dup": {
+        "user":{
+            "name": "Jean Gray",
+            "email": "jean@xman.com",
+            "password": "@@b2c3D4@@"
+        },
+        "task": {
+            "name": "fazer compras no mercado"
+        }
+    }
+}

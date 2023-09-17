@@ -1,0 +1,30 @@
+{
+    "login": {
+        "name": "Rayssa Lopes",
+        "email": "rayssa@gmail.com",
+        "password": "@@b2c3D4@@"
+    },
+    "inv_pass": {
+        "email": "rafael.rlopes96@gmail.com",
+        "password": "@@123@@"
+    },
+    "email_404": {
+        "email": "404@gmail.com",
+        "password": "@@b2c3D4@@"
+    },
+    "create": {
+        "name": "Rafael Lopes",
+        "email": "rafael.rlopes96@gmail.com",
+        "password": "@@b2c3D4@@"
+    },
+    "dup_email": {
+        "name": "James Gun",
+        "email": "james@hotmail.com",
+        "password": "@@b2c3D4@@"
+    },
+    "required": {
+        "name": "Margot Robbie",
+        "email": "margot@hotmail.com",
+        "password": "@@b2c3D4@@"
+    }
+}
